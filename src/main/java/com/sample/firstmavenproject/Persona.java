@@ -2,7 +2,7 @@ package com.sample.firstmavenproject;
 
 public class Persona {
 
-	private String names;
+	private String name;
 
 	public Persona(String name) {
 		super();
